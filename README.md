@@ -7,7 +7,6 @@ Frontend Developer
 * 🌍  I'm based in Surabaya, Indonesia
 * 🖥️  See my portfolio at [Rezki Triandy - Frontend Developer](http://https://rezki-fe-dev.netlify.app/)
 * ✉️  You can contact me at [rezkitriandy.contact@gmail.com](mailto:rezkitriandy.contact@gmail.com)
-* 🚀  I'm currently working on [Beecloud 3.0](http://https://devbc.bee.id/)
 
 ### Skills
 
